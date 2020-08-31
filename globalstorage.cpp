@@ -47,4 +47,3 @@ bool GlobalStorage::init(int argc, const char **params)
     }
     return true;
 }
-
